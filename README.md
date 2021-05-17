@@ -55,7 +55,7 @@ Example
 
 In the root directory of the project (you will be able to see "src" folder in the root directory)e
 
-> java -jar target/SoftwareSpendReporter-1.0.jar src\test\resources\softwarespendtest6.csv
+> java -jar target/SoftwareSpendReporter-1.0.jar src/test/resources/softwarespendtest6.csv
 
 You can use csv files in src/test/resources/
 ```
