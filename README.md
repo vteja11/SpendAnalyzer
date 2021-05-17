@@ -1,29 +1,31 @@
 # SpendAnalyzer
 
 ## Dependencies
+
 * Java (JDK >= 8)
 * Maven 
 
 ## Environment Setup
 
-* Download and Install JDK >=8
+* Download and Install Java with JDK >=8
 * Download Maven (https://mirror.nodesdirect.com/apache/maven/maven-3/3.8.1/binaries/apache-maven-3.8.1-bin.zip)
 * Install Maven based on OS (https://maven.apache.org/install.html)
 
 ## Environment Verification
 ```
 To Make sure your environment is set properly, type the following commands
-Windows
 
-$ Java -version
+Windows OS Commands
+
+> Java -version
 java version "1.8.0_231"
 
-$ echo %JAVA_HOME%
+> echo %JAVA_HOME%
 C:\Program Files\Java\jdk1.8.0_231
 
 Make sure that JAVA_HOME and Java points to the same version of JDK
 
-$ mvn -v
+> mvn -v
 Apache Maven 3.8.1 (05c21c65bdfed0f71a2f2ada8b84da59348c4c5d)
 Maven home: C:\tmp\apache-maven-3.8.1\bin\..
 Java version: 1.8.0_231, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk1.8.0_231\jre
@@ -39,19 +41,36 @@ OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 
 After Navigating to root directory of project
 
-$ mvn package
+> mvn package
 ```
 
 ## Steps To Run
 ```
-In the root directory of the project
+In the root directory of the project (you will be able to see "src" folder in the root directory)
 
-$ java -jar target/SpendAnalyzer-1.0.jar <Input CSV File Absolute Path>
+> java -jar target/SoftwareSpendReporter-1.0.jar <Input CSV File Absolute Path>
 
 Example
-$ java -jar target/SpendAnalyzer-1.0.jar C:\Users\vempa\Desktop\JavaProjects\SpendAnalyzer\src\test\resources\softwarespendtest6.csv
+> java -jar target/SoftwareSpendReporter-1.0.jar C:\Users\vempa\SpendAnalyzer\src\test\resources\softwarespendtest6.csv
 
-Use the CSV Files in src\test\resources for demo
+You can use csv files in src/test/resources/
+```
+
+## Demo
+```
+>java -jar target/SoftwareSpendReporter-1.0.jar C:\Users\vempa\Downloads\softwarespendtestservicenow.csv
+Adobe $99,678.00
+  Creative Cloud $98,445.00
+  Illustrator $1,233.00
+Amazon $33,742.00
+  AWS $33,742.00
+Box $66,122.00
+  Box $66,122.00
+DocuSign $45,221.00
+  DocuSign $45,221.00
+Microsoft $827,963.00
+  Azure $5,332.00
+  Office365 $822,631.00
 ```
 
 ## Assumptions
@@ -63,5 +82,14 @@ Use the CSV Files in src\test\resources for demo
 ```
 1. The maximum aggregation possible is 1.7 x 10^308, i.e the total sum of the amount spent for a vendor should be less than 
    the given maximum. If the sum exceeds the given maximum, '∞' is shown in the report 
+```
+
+## Trouble Shooting 
+```
+1. Make sure java is properly installed by typing "java -version" in console 
+2. Make sure JAVA_HOME is set to same jdk version as java 
+3. Make sure maven is installed properly by typing "mvn -v"
+4. If you have problems with maven try to download binary archives rather than source archives 
+5. This project is tested in both Windows OS and Linux OS.   
 ```
 
