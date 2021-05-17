@@ -62,7 +62,7 @@ You can use csv files in src/test/resources/
 
 ## Demo
 ```
->java -jar target/SoftwareSpendReporter-1.0.jar src\test\resources\softwarespendtestservicenow.csv
+>java -jar target/SoftwareSpendReporter-1.0.jar src/test/resources/softwarespendtestservicenow.csv
 Adobe $99,678.00
   Creative Cloud $98,445.00
   Illustrator $1,233.00
