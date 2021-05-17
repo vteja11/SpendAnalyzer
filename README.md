@@ -49,19 +49,20 @@ To Build the project run the below command
 
 ## Steps To Run
 ```
-> java -jar <path to SpendAnalyzer/target/SoftwareSpendReporter-1.0.jar file> <Input CSV File Absolute Path>
+> java -jar <path to SpendAnalyzer/target/SoftwareSpendReporter-1.0.jar file> <Input Csv File Path>
 
 Example
 
 In the root directory of the project (you will be able to see "src" folder in the root directory)e
-> java -jar target/SoftwareSpendReporter-1.0.jar C:\Users\vempa\SpendAnalyzer\src\test\resources\softwarespendtest6.csv
+
+> java -jar target/SoftwareSpendReporter-1.0.jar src\test\resources\softwarespendtest6.csv
 
 You can use csv files in src/test/resources/
 ```
 
 ## Demo
 ```
->java -jar target/SoftwareSpendReporter-1.0.jar C:\Users\vempa\Downloads\softwarespendtestservicenow.csv
+>java -jar target/SoftwareSpendReporter-1.0.jar src\test\resources\softwarespendtestservicenow.csv
 Adobe $99,678.00
   Creative Cloud $98,445.00
   Illustrator $1,233.00
@@ -78,7 +79,7 @@ Microsoft $827,963.00
 
 ## Assumptions
 ```
-1. The Input File is Valid, i.e it has All the four required columns and amount is a number
+1. The Input File is a Valid Csv File, i.e it has All the four required columns and Amount column is Number
 ```
 
 ## Limitations
@@ -92,7 +93,9 @@ Microsoft $827,963.00
 1. Make sure java is properly installed by typing "java -version" in console 
 2. Make sure JAVA_HOME is set to same jdk version as java 
 3. Make sure maven is installed properly by typing "mvn -v"
-4. If you have problems with maven try to download binary archives rather than source archives 
-5. This project is tested in both Windows OS and Linux OS. If OS related problems occur please search online 
+4. If you have problems with maven try to download binary archives rather than source archives
+   Example: Error: Could not find or load main class org.codehaus.plexus.classworlds.launcher.Launcher
+   Download maven binary archives(Link provided in Environment Setup Section)
+6. This project is tested in both Windows OS and Linux OS. If any OS related problems occur please search online 
 ```
 
