@@ -9,8 +9,10 @@
 * Download and Install JDK >=8
 * Download Maven (https://mirror.nodesdirect.com/apache/maven/maven-3/3.8.1/binaries/apache-maven-3.8.1-bin.zip)
 * Install Maven based on OS (https://maven.apache.org/install.html)
+
+## Environment Verification
 ```
-To Make sure your environment is ready type the following commands
+To Make sure your environment is set properly, type the following commands
 Windows
 
 $ Java -version
@@ -32,10 +34,10 @@ OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 
 ## Steps To Build 
 ```
-Download and extract this repository
-$ cd SpendAnalyzer
+1. Download and extract this repository
+2. Navigate to the root directory of project (you will be able to see "src" folder in the root directory)
 
-You are in the root directory of project
+After Navigating to root directory of project
 
 $ mvn package
 ```
