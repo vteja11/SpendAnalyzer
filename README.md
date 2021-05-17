@@ -2,12 +2,12 @@
 
 ## Dependencies
 
-* Java (JDK >= 8)
+* Java (Jdk version >= 8)
 * Maven 
 
 ## Environment Setup
 
-* Download and Install Java with JDK >=8
+* Download and Install Java (Jdk version >=8)
 * Download Maven (https://mirror.nodesdirect.com/apache/maven/maven-3/3.8.1/binaries/apache-maven-3.8.1-bin.zip)
 * Install Maven based on OS (https://maven.apache.org/install.html)
 
