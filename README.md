@@ -39,18 +39,21 @@ OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 1. Download and extract this repository
 2. Navigate to the root directory of project (you will be able to see "src" folder in the root directory)
 
-After Navigating to root directory of project
+> git clone https://github.com/vteja11/SpendAnalyzer.git
+> cd SpendAnalyzer
+
+To Build the project run the below command
 
 > mvn package
 ```
 
 ## Steps To Run
 ```
-In the root directory of the project (you will be able to see "src" folder in the root directory)
-
-> java -jar target/SoftwareSpendReporter-1.0.jar <Input CSV File Absolute Path>
+> java -jar <path to SpendAnalyzer/target/SoftwareSpendReporter-1.0.jar file> <Input CSV File Absolute Path>
 
 Example
+
+In the root directory of the project (you will be able to see "src" folder in the root directory)e
 > java -jar target/SoftwareSpendReporter-1.0.jar C:\Users\vempa\SpendAnalyzer\src\test\resources\softwarespendtest6.csv
 
 You can use csv files in src/test/resources/
@@ -90,6 +93,6 @@ Microsoft $827,963.00
 2. Make sure JAVA_HOME is set to same jdk version as java 
 3. Make sure maven is installed properly by typing "mvn -v"
 4. If you have problems with maven try to download binary archives rather than source archives 
-5. This project is tested in both Windows OS and Linux OS.   
+5. This project is tested in both Windows OS and Linux OS. If OS related problems occur please search online 
 ```
 
