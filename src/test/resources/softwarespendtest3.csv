@@ -1,0 +1,1801 @@
+Transaction Date,Vendor,Product,Amount
+1/25/2018,Microsoft,Windows.,2878121
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,SAP,Ruum,6679
+12/24/2018,Amazon,AWS,11977
+1/25/2018,SAP,HANA,33123243
+1/25/2018,SAP,HANA,33123243
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,SAP,HANA Cloud,1213
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Google,Dataflow,669
+1/27/2019,Adobe,Creative Cloud,98445
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Microsoft,OneDrive.,28728
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Oracle,NoSQL Database,2412111
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Amazon,ECS,5354
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Google,Cloud SQL,6767886
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Google,Cloud SQL,6767886
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,SAP,IQ,131231
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Google,Cloud CDN,678678
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Salesforce,App Builder,788789
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,SAP,IQ,131231
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,IBM,Cloud Pak for Data,221
+12/5/2018,Box,Box,66122
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Google,Kubernetes Engine,676788
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Oracle,Visual Builder,44323432
+1/24/2019,Amazon,AWS,12443
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Google,Operations,23565
+1/25/2018,IBM,Garage,87821
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Google,Anthos,975
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,Salesforce,Object Creator,438
+1/11/2019,Adobe,Illustrator,1233
+12/5/2018,Box,Box,66122
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Salesforce,Dx,767766
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Amazon,Cloudwatch,75678787
+12/24/2018,Amazon,AWS,11977
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,SAP,IQ,131231
+1/25/2018,Salesforce,App Builder,788789
+12/5/2018,Box,Box,66122
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Google,Anthos,975
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Amazon,ECS,5354
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Microsoft,OneDrive.,2762172
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,Amazon,Fargate,356967
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,IBM,Watson Explorer,1412662
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Google,Anthos,975
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Amazon,Cloudwatch,75678787
+1/24/2019,Amazon,AWS,12443
+1/25/2018,IBM,Security Verify,21228765
+1/19/2019,Microsoft,Azure,5332
+1/11/2019,Adobe,Illustrator,1233
+12/5/2018,Box,Box,66122
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Amazon,Ec2,56565
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,SAP,Analytics Cloud,3243
+12/24/2018,Amazon,AWS,11977
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Oracle,Visual Builder,44323432
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,IBM,Garage,87821
+1/25/2018,Oracle,Visual Builder,44323432
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,Amazon,Ec2,56565
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,Google,Anthos,975
+1/25/2018,Amazon,Lambda,7867
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Oracle,ERP,213213
+1/25/2018,IBM,Watson Explorer,1412662
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Microsoft,OneDrive.,28728
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Amazon,ecs,987876
+1/25/2018,IBM,Cloud Pak for Data,221
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Google,Dataflow,669
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Google,Anthos,975
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,SAP,SQL Anywhere,131
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Google,Cloud CDN,678678
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Google,Cloud Run,5455657
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,SAP,Conversational AI,977997
+12/5/2018,Box,Box,66122
+1/25/2018,Google,Operations,23565
+1/25/2018,Salesforce,Object Creator,438
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Salesforce,Object Creator,438
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Google,Dataflow,669
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Google,Anthos,975
+1/25/2018,SAP,Conversational AI,977997
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,IBM,Garage,87821
+1/25/2018,Salesforce,Flow,9
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Salesforce,Object Creator,438
+1/28/2018,Microsoft,Office365,389777
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Google,Dataflow,669
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Amazon,EMR,34546
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Microsoft,Outlook.,27621
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Microsoft,Windows.,2878121
+1/24/2019,Amazon,AWS,12443
+1/25/2018,SAP,Data Intelligence,98978
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Oracle,ERP,213213
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Microsoft,Office.,287216
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Amazon,ecs,987876
+1/25/2018,SAP,Ruum,6679
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,IBM,Garage,87821
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,SAP,IQ,131231
+1/25/2018,Microsoft,Windows.,2878121
+12/5/2018,Box,Box,66122
+1/25/2018,Google,Dataflow,669
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,IBM,Security Verify,21228765
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,SAP,Analytics Cloud,3243
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Google,Kubernetes Engine,676788
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Salesforce,Flow,9
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,Google,Operations,23565
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Amazon,ecs,987876
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,SAP,IQ,131231
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Google,Dataflow,669
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Microsoft,Microsoft 365.,28271
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Salesforce,App Builder,788789
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,IBM,Garage,87821
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Amazon,ecs,987876
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Microsoft,Outlook.,27621
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,SAP,Analytics Cloud,3243
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Amazon,ECS,5354
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,IBM,Watson Assistant,2322
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Oracle,Soar,123131
+12/5/2018,Box,Box,66122
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Google,Cloud Run,5455657
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,SAP,HANA,33123243
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Google,Anthos,975
+1/25/2018,Amazon,ecs,987876
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Google,Operations,23565
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Google,Dataflow,669
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Oracle,ERP,213213
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Microsoft,OneDrive.,2762172
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Amazon,Ec2,56565
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Oracle,ERP,213213
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,IBM,Garage,87821
+12/5/2018,Box,Box,66122
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Google,Operations,23565
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,IBM,Garage,87821
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,SAP,IQ,131231
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,SAP,IQ,131231
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,SAP,HANA,33123243
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Google,Dataflow,669
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,Amazon,EMR,34546
+1/25/2018,IBM,Garage,87821
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,IBM,Garage,87821
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,IBM,Garage,87821
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,SAP,HANA Cloud,1213
+1/27/2019,Adobe,Creative Cloud,98445
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Amazon,ecs,987876
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Oracle,Digital Assistant,3132321
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Google,Dataflow,669
+1/25/2018,SAP,HANA,33123243
+1/25/2018,SAP,Conversational AI,977997
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Amazon,ecs,987876
+1/25/2018,IBM,Watson Explorer,1412662
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Oracle,ERP,213213
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,IBM,Garage,87821
+1/25/2018,SAP,IQ,131231
+1/25/2018,SAP,IQ,131231
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,SAP,Analytics Cloud,3243
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Google,Anthos,975
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Oracle,NoSQL Database,2412111
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,IBM,Garage,87821
+1/25/2018,Amazon,ecs,987876
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Microsoft,Microsoft Edge,2186726
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,Google,Operations,23565
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Google,Anthos,975
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Oracle,NoSQL Database,2412111
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,IBM,Cloud Pak for Data,221
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Google,BigQuery,68676
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,SAP,Conversational AI,977997
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Microsoft,Windows.,2878121
+12/5/2018,Box,Box,66122
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Google,Operations,23565
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Oracle,ERP,213213
+1/25/2018,IBM,Garage,87821
+1/25/2018,Microsoft,OneDrive.,28728
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Microsoft,OneDrive.,2762172
+1/19/2019,Microsoft,Azure,5332
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Google,Anthos,975
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Microsoft,Windows.,2878121
+12/5/2018,Box,Box,66122
+1/25/2018,Google,Cloud SQL,6767886
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Google,BigQuery,68676
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Google,Operations,23565
+1/25/2018,SAP,IQ,131231
+1/25/2018,Google,Kubernetes Engine,676788
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Google,Operations,23565
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,IBM,Garage,87821
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Microsoft,Office.,287216
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Google,Dataflow,669
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,Google,BigQuery,68676
+1/19/2019,Microsoft,Azure,5332
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,Google,Anthos,975
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Oracle,ERP,213213
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,SAP,Ruum,6679
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Microsoft,Office.,287216
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Amazon,ECS,5354
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Oracle,NoSQL Database,2412111
+11/24/2018,Amazon,AWS,9322
+1/25/2018,IBM,Garage,87821
+1/25/2018,IBM,Watson Assistant,2322
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Amazon,EMR,34546
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,IBM,Garage,87821
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Oracle,NoSQL Database,2412111
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Microsoft,OneDrive.,28728
+1/11/2019,Adobe,Illustrator,1233
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Google,Cloud Functions,978
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Microsoft,Office.,287216
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Google,Operations,23565
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Microsoft,OneDrive.,28728
+1/27/2019,Adobe,Creative Cloud,98445
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Google,Dataflow,669
+1/25/2018,Amazon,Cloudwatch,75678787
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,SAP,HANA,33123243
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Microsoft,Windows.,28281
+12/24/2018,Amazon,AWS,11977
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Oracle,Soar,123131
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Amazon,EMR,34546
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,Google,Dataflow,669
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Amazon,ECS,5354
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,Microsoft,Outlook.,27621
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Google,Dataflow,669
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Salesforce,Flow,9
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,SAP,IQ,131231
+1/25/2018,Google,Dataflow,669
+1/25/2018,Amazon,Cloudwatch,75678787
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,IBM,Garage,87821
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Google,Operations,23565
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Microsoft,OneNote.,2651262
+12/5/2018,Box,Box,66122
+1/25/2018,IBM,Garage,87821
+1/28/2019,Microsoft,Office365,432854
+12/5/2018,Box,Box,66122
+1/25/2018,IBM,Cloud Pak for Data,221
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Microsoft,OneDrive.,2762172
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Google,Anthos,975
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Google,Anthos,975
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,SAP,IQ,131231
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Google,Kubernetes Engine,676788
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,SAP,Ruum,6679
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,SAP,Data Intelligence,98978
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,IBM,Garage,87821
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,SAP,IQ,131231
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,SAP,Ruum,6679
+1/25/2018,IBM,Garage,87821
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Google,Anthos,975
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,SAP,HANA Cloud,1213
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Microsoft,Windows.,2878121
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,SAP,IQ,131231
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Microsoft,Outlook.,27621
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Oracle,Autonomous Database,1423
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,SAP,Ruum,6679
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Google,Anthos,975
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Google,Anthos,975
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Google,BigQuery,68676
+1/25/2018,SAP,IQ,131231
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,SAP,IQ,131231
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Oracle,NoSQL Database,2412111
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,SAP,SQL Anywhere,131
+1/11/2019,Microsoft,Microsoft 365.,71226
+12/5/2018,Box,Box,66122
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,SAP,HANA,33123243
+1/25/2018,SAP,Ruum,6679
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Google,Operations,23565
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Microsoft,Windows.,28281
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Oracle,Autonomous Database,1423
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Salesforce,Flow,9
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,Google,Dataflow,669
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,IBM,Watson Explorer,1412662
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,SAP,Analytics Cloud,3243
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Amazon,ecs,987876
+1/19/2019,Microsoft,Azure,5332
+11/3/2018,DocuSign,DocuSign,45221
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Amazon,ecs,987876
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Oracle,Soar,123131
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Google,BigQuery,68676
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,Microsoft,OneDrive.,2762172
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Microsoft,Office.,287216
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Google,Cloud Functions,978
+1/28/2019,Microsoft,Office365,432854
+12/5/2018,Box,Box,66122
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Oracle,Autonomous Database,1423
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Google,Cloud Functions,978
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,SAP,SQL Anywhere,131
+1/24/2019,Amazon,AWS,12443
+1/25/2018,IBM,Watson Studio,83782
+12/5/2018,Box,Box,66122
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Microsoft,Outlook.,27621
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Amazon,ECS,5354
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,IBM,Security Verify,21228765
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Google,Cloud CDN,678678
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Oracle,Soar,123131
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Oracle,Soar,123131
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Google,Dataflow,669
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Google,BigQuery,68676
+1/25/2018,SAP,IQ,131231
+1/25/2018,Google,Operations,23565
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,SAP,HANA,33123243
+1/28/2018,Microsoft,Office365,389777
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,IBM,Garage,87821
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Google,Dataflow,669
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,SAP,Conversational AI,977997
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Amazon,ecs,987876
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,Google,Operations,23565
+1/25/2018,Google,Dataflow,669
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Oracle,Soar,123131
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Amazon,Cloudwatch,75678787
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,SAP,Analytics Cloud,3243
+12/5/2018,Box,Box,66122
+1/25/2018,IBM,Garage,87821
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,Google,Anthos,975
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,Microsoft,OneNote.,2651262
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,IBM,Security Verify,21228765
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Google,Dataflow,669
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Amazon,EMR,34546
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Amazon,Fargate,356967
+12/5/2018,Box,Box,66122
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Google,Anthos,975
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,SAP,Conversational AI,977997
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Microsoft,OneNote.,2651262
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,SAP,HANA Cloud,1213
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Microsoft,OneDrive.,28728
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Amazon,Fargate,356967
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,Microsoft,OneDrive.,28728
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,SAP,IQ,131231
+1/25/2018,Google,Cloud SQL,6767886
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Google,BigQuery,68676
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Google,Anthos,975
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,SAP,Conversational AI,977997
+1/28/2018,Microsoft,Office365,389777
+1/28/2018,Microsoft,Office365,389777
+1/27/2019,Adobe,Creative Cloud,98445
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,Oracle,ERP,213213
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,IBM,Watson Studio,83782
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Salesforce,App Builder,788789
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Google,Operations,23565
+1/25/2018,Google,Dataflow,669
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Salesforce,Flow,9
+1/25/2018,SAP,HANA,33123243
+1/25/2018,SAP,HANA,33123243
+1/25/2018,IBM,Security Verify,21228765
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Google,Dataflow,669
+1/25/2018,Amazon,Fargate,356967
+12/5/2018,Box,Box,66122
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,SAP,HANA,33123243
+1/25/2018,IBM,Security Verify,21228765
+12/5/2018,Box,Box,66122
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,SAP,IQ,131231
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Google,Operations,23565
+1/25/2018,SAP,Ruum,6679
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Amazon,ecs,987876
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+11/24/2018,Amazon,AWS,9322
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,SAP,HANA,33123243
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,Oracle,ERP,213213
+11/3/2018,DocuSign,DocuSign,45221
+12/5/2018,Box,Box,66122
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/27/2019,Adobe,Creative Cloud,98445
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Google,Cloud CDN,678678
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,SAP,HANA Cloud,1213
+12/5/2018,Box,Box,66122
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Oracle,NoSQL Database,2412111
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,IBM,Garage,87821
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Amazon,ECS,5354
+1/28/2018,Microsoft,Office365,389777
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Oracle,ERP,213213
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Amazon,Fargate,356967
+1/24/2019,Amazon,AWS,12443
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,SAP,IQ,131231
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Oracle,Visual Builder,44323432
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Oracle,MySQL Database,1321343
+12/5/2018,Box,Box,66122
+1/25/2018,SAP,Ruum,6679
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,IBM,Watson Assistant,2322
+1/28/2019,Microsoft,Office365,432854
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,SAP,Ruum,6679
+1/25/2018,SAP,Data Intelligence,98978
+12/5/2018,Box,Box,66122
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Amazon,Lambda,7867
+12/5/2018,Box,Box,66122
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,IBM,Security Verify,21228765
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Google,Anthos,975
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Google,Anthos,975
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Google,Anthos,975
+1/11/2019,Adobe,Illustrator,1233
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Amazon,EMR,34546
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Salesforce,App Builder,788789
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Salesforce,Object Creator,438
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Google,Dataflow,669
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,SAP,HANA,33123243
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Oracle,Visual Builder,44323432
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,Microsoft,Office.,287216
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Google,Cloud Run,5455657
+1/24/2019,Amazon,AWS,12443
+1/25/2018,SAP,IQ,131231
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Google,BigQuery,68676
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,IBM,Garage,87821
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Oracle,Autonomous Database,1423
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,Google,Operations,23565
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Google,Dataflow,669
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Amazon,ecs,987876
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Oracle,Autonomous Database,1423
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,SAP,IQ,131231
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,SAP,IQ,131231
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Google,Anthos,975
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Oracle,NoSQL Database,2412111
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Microsoft,Windows.,28281
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,IBM,Garage,87821
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Google,Dataflow,669
+1/25/2018,Oracle,Digital Assistant,3132321
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Oracle,Autonomous Database,1423
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Google,BigQuery,68676
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Google,Anthos,975
+1/19/2019,Microsoft,Azure,5332
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,IBM,Watson Explorer,1412662
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Salesforce,Object Creator,438
+11/24/2018,Amazon,AWS,9322
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,SAP,SQL Anywhere,131
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,Oracle,Visual Builder,44323432
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Google,BigQuery,68676
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,SAP,HANA Cloud,1213
+1/11/2019,Adobe,Illustrator,1233
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Oracle,ERP,213213
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,SAP,Data Intelligence,98978
+12/24/2018,Amazon,AWS,11977
+12/5/2018,Box,Box,66122
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Google,Dataflow,669
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Google,Dataflow,669
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Google,Operations,23565
+1/25/2018,Microsoft,Microsoft Edge,2186726
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Amazon,Ec2,56565
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Google,Anthos,975
+1/25/2018,Google,Kubernetes Engine,676788
+1/24/2019,Amazon,AWS,12443
+1/24/2019,Amazon,AWS,12443
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Oracle,MySQL Database,1321343
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Google,BigQuery,68676
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Microsoft,Microsoft Edge,123230
+11/3/2018,DocuSign,DocuSign,45221
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Oracle,Soar,123131
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,SAP,IQ,131231
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Google,Operations,23565
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Microsoft,Windows.,28281
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Amazon,ecs,987876
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Salesforce,Object Creator,438
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Google,Dataflow,669
+1/25/2018,Google,Dataflow,669
+1/25/2018,Amazon,EMR,34546
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,SAP,IQ,131231
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,SAP,Ruum,6679
+1/24/2019,Amazon,AWS,12443
+1/25/2018,IBM,Garage,87821
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Oracle,Soar,123131
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Google,BigQuery,68676
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,IBM,Garage,87821
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Oracle,Soar,123131
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,SAP,IQ,131231
+1/25/2018,Google,Anthos,975
+11/3/2018,DocuSign,DocuSign,45221
+12/5/2018,Box,Box,66122
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Salesforce,Flow,9
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Google,Anthos,975
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Oracle,Digital Assistant,3132321
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Google,Kubernetes Engine,676788
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Amazon,ECS,5354
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,SAP,Analytics Cloud,3243
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,SAP,Analytics Cloud,3243
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Google,Operations,23565
+1/25/2018,Google,Dataflow,669
+1/19/2019,Microsoft,Azure,5332
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Google,Dataflow,669
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,SAP,HANA,33123243
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,SAP,IQ,131231
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Oracle,ERP,213213
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Salesforce,App Builder,788789
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Google,Operations,23565
+1/25/2018,Google,Cloud Run,5455657
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Google,Dataflow,669
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,SAP,Analytics Cloud,3243
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,IBM,Garage,87821
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,SAP,SQL Anywhere,131
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Oracle,ERP,213213
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,IBM,Watson Assistant,2322
+1/28/2018,Microsoft,Office365,389777
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,IBM,Security Verify,21228765
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Oracle,Soar,123131
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,SAP,Conversational AI,977997
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Microsoft,OneDrive.,28728
+11/3/2018,DocuSign,DocuSign,45221
+1/27/2019,Adobe,Creative Cloud,98445
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Google,BigQuery,68676
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,IBM,Garage,87821
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Oracle,MySQL Database,1321343
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Google,BigQuery,68676
+1/25/2018,IBM,Watson Discovery,983923
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Amazon,ECS,5354
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Salesforce,Flow,9
+1/25/2018,IBM,Garage,87821
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,IBM,Garage,87821
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Oracle,Soar,123131
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Google,Operations,23565
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Google,Cloud Functions,978
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Google,Dataflow,669
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Microsoft,Office.,287216
+12/24/2018,Amazon,AWS,11977
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,Google,Cloud Functions,978
+1/25/2018,Oracle,ERP,213213
+1/25/2018,Google,Anthos,975
+1/25/2018,Google,Cloud SQL,6767886
+1/25/2018,SAP,IQ,131231
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Amazon,ECS,5354
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Google,Operations,23565
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,Microsoft,Microsoft Edge,2186726
+1/25/2018,SAP,IQ,131231
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Oracle,NoSQL Database,2412111
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Google,BigQuery,68676
+11/24/2018,Amazon,AWS,9322
+1/25/2018,Google,Operations,23565
+1/25/2018,Oracle,Visual Builder,44323432
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Google,BigQuery,68676
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,SAP,HANA,33123243
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Microsoft,Office.,287216
+1/25/2018,Oracle,Autonomous Database,1423
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Amazon,ECS,5354
+1/25/2018,SAP,Data Intelligence,98978
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Amazon,EMR,34546
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Oracle,Soar,123131
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Google,Operations,23565
+1/25/2018,Oracle,Soar,123131
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Google,Anthos,975
+1/25/2018,IBM,Watson Studio,83782
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,Microsoft,OneDrive.,28728
+1/25/2018,Microsoft,Microsoft Edge,2186726
+11/24/2018,Amazon,AWS,9322
+1/25/2018,IBM,Watson Discovery,983923
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Google,Anthos,975
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Microsoft,OneNote.,2651262
+1/25/2018,Amazon,ECS,5354
+11/3/2018,DocuSign,DocuSign,45221
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,SAP,Ruum,6679
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Amazon,EMR,34546
+1/11/2019,Microsoft,Microsoft 365.,71226
+1/25/2018,Oracle,Soar,123131
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,Microsoft,Windows.,2878121
+1/19/2019,Microsoft,Azure,5332
+1/28/2018,Microsoft,Office365,389777
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Amazon,EMR,34546
+1/25/2018,Oracle,Visual Builder,44323432
+12/24/2018,Amazon,AWS,11977
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,Amazon,Cloudwatch,75678787
+1/25/2018,Salesforce,Flow,9
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Amazon,EMR,34546
+1/24/2019,Amazon,AWS,12443
+1/25/2018,Microsoft,Windows.,28281
+1/25/2018,SAP,HANA Cloud,1213
+1/25/2018,IBM,Security Verify,21228765
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Oracle,Autonomous Database,1423
+11/3/2018,DocuSign,DocuSign,45221
+1/28/2018,Microsoft,Office365,389777
+1/11/2019,Adobe,Illustrator,1233
+1/25/2018,IBM,Watson Assistant,2322
+1/25/2018,Salesforce,Dx,767766
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Microsoft,Microsoft Teams.,2176721
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Microsoft,Microsoft 365.,28271
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Microsoft,OneDrive.,2762172
+11/24/2018,Amazon,AWS,9322
+1/25/2018,SAP,IQ,131231
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Amazon,Ec2,56565
+1/25/2018,IBM,Garage,87821
+12/5/2018,Box,Box,66122
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Google,Dataflow,669
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Microsoft,Outlook.,27621
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Amazon,ecs,987876
+1/25/2018,SAP,HANA,33123243
+1/25/2018,Microsoft,Windows.,2878121
+1/25/2018,Google,Anthos,975
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Google,Kubernetes Engine,676788
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Salesforce,App Builder,788789
+1/28/2019,Microsoft,Office365,432854
+1/25/2018,Oracle,Soar,123131
+1/25/2018,Google,BigQuery,68676
+1/25/2018,Amazon,ecs,987876
+1/25/2018,Salesforce,Object Creator,438
+1/25/2018,Oracle,Digital Assistant,3132321
+1/25/2018,Microsoft,OneDrive.,2762172
+1/25/2018,Amazon,Fargate,356967
+1/25/2018,IBM,Cloud Pak for Data,221
+1/25/2018,IBM,Watson Explorer,1412662
+1/25/2018,Oracle,NoSQL Database,2412111
+1/25/2018,Google,Anthos,975
+1/25/2018,Google,Cloud CDN,678678
+1/25/2018,Google,Operations,23565
+1/25/2018,SAP,Conversational AI,977997
+1/25/2018,IBM,Garage,87821
+1/25/2018,Microsoft,Microsoft Edge,123230
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Oracle,NoSQL Database,2412111
+12/24/2018,Amazon,AWS,11977
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,Microsoft,Office.,287216
+1/19/2019,Microsoft,Azure,5332
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Amazon,Lambda,7867
+1/25/2018,Oracle,Gen 2 Cloud,2323242
+1/25/2018,IBM,Watson Studio,83782
+1/25/2018,Amazon,ECS,5354
+1/25/2018,Amazon,ecs,987876
