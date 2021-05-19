@@ -49,11 +49,13 @@ To Build the project run the below command
 
 ## Steps To Run
 ```
+After building the project, you can run the project with below command
+
 > java -jar <path to SpendAnalyzer/target/SoftwareSpendReporter-1.0.jar file> <Input Csv File Path>
 
 Example
 
-In the root directory of the project (you will be able to see "src" folder in the root directory)e
+In the root directory of the project (you will be able to see "src" folder in the root directory)
 
 > java -jar target/SoftwareSpendReporter-1.0.jar src/test/resources/softwarespendtest6.csv
 
@@ -88,7 +90,7 @@ Microsoft $827,963.00
    the given maximum. If the sum exceeds the given maximum, '∞' is shown in the report 
 ```
 
-## Trouble Shooting 
+## TroubleShooting 
 ```
 1. Make sure java is properly installed by typing "java -version" in console 
 2. Make sure JAVA_HOME is set to same jdk version as java 
